@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Quicksand:wght@300&display=swap');
+
+* {
+    margin: 5;
+    padding: 5;
+    border: none;
+}
+body {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    color: #000000
+}
+
+h1, h2 {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 300;
+    color: #404040
+}
+
+#bod-logo {
+    float: left;
+    font-size: 200%;
+    margin-left: 20%;
+
+}
