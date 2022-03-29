@@ -55,8 +55,9 @@ h1, h2 {
 #hero {
     height: 576px;
     width: 100%;
-    position: relative;
     overflow: hidden; 
+    position: relative;
+    
 }
  #hero-img {
     height: 576px;
@@ -65,5 +66,22 @@ h1, h2 {
 }
 
 #hero-text {
-    font-family: 
+    font-family: 'Comfortaa', cursive;
+    letter-spacing: 2px;
+
+    width: 800px;
+    height: 400px;
+
+    padding-top: 20px;
+    padding-left: 10px;
+
+    background: rgb(247, 246, 246);
+
+    border-radius: 25px;
+    
+    
+}
+
+#hero-text, #hero-text h2, #hero-text h3 {
+    color: #404040
 }
