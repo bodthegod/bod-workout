@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Quicksand:wght@300&display=swap');
 
-* {
-    margin: 5;
-    padding: 5;
-    border: none;
-}
 body {
     font-family: 'Quicksand', sans-serif;
     font-weight: 500;
@@ -62,12 +57,13 @@ h1, h2 {
  #hero-img {
     height: 576px;
     width: 100%;
-    background: url('../images/gym-image.jpg') no-repeat center center;
+    
+    background: linear-gradient(0deg, rgba(32, 31, 55, 0.9), rgba(32, 31, 55, 0.9)), url('../images/gym-image.jpg') no-repeat center center;
 }
 
 #hero-text {
     font-family: 'Comfortaa', cursive;
-    letter-spacing: 2px;
+    letter-spacing: 2px; 
 
     width: 800px;
     height: 400px;
@@ -77,11 +73,28 @@ h1, h2 {
 
     background: rgb(247, 246, 246);
 
-    border-radius: 25px;
+    -webkit-border-radius: 0px 40px 0px 40px;
+    -moz-border-radius: 0px 40px 0px 40px;
+    border-radius: 0px 40px 0px 40px;
     
     
 }
 
-#hero-text, #hero-text h2, #hero-text h3 {
-    color: #404040
+#hero-text {
+    color: #404040;
+    font-size: 28px;
+    text-align: center;
+    line-break: auto;
+    padding: 20px;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
 }
+
+#hero-text h2 {
+    color: #404040;
+    font-size: 28px;
+    text-align: center;
+    line-break: auto;
+    padding: 20px;
+}
+
