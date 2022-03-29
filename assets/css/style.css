@@ -8,7 +8,9 @@
 body {
     font-family: 'Quicksand', sans-serif;
     font-weight: 500;
-    color: #000000
+    color: #000000;
+    margin: 0;
+    /* box-sizing: border-box; */
 }
 
 h1, h2 {
@@ -54,10 +56,14 @@ h1, h2 {
     height: 576px;
     width: 100%;
     position: relative;
-    overflow: hidden;
+    overflow: hidden; 
 }
-#hero-img {
+ #hero-img {
     height: 576px;
     width: 100%;
     background: url('../images/gym-image.jpg') no-repeat center center;
+}
+
+#hero-text {
+    font-family: 
 }
