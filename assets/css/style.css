@@ -57,8 +57,8 @@ h1, h2 {
  #hero-img {
     height: 576px;
     width: 100%;
-    
-    background: linear-gradient(0deg, rgba(32, 31, 55, 0.9), rgba(32, 31, 55, 0.9)), url('../images/gym-image.jpg') no-repeat center center;
+    filter: blur(5px);
+    background: url('../images/gym-image.jpg') no-repeat center center;
 }
 
 #hero-text {
