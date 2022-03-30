@@ -39,12 +39,12 @@ h1, h2 {
 }
 
 #links .nav-item a:hover { 
-    border-bottom: 0.5px solid #000000;
+    border-bottom: 0.5px solid #df710b;
 
 }
 
 .active {
-    border-bottom: 0.5px solid #000000;
+    border-bottom: 0.5px solid #df710b;
 
 }
 
@@ -135,4 +135,9 @@ div h2, h4 {
     background-size: cover;
     filter:blur(5px)
     
+  }
+
+  #fitness-love-title {
+    border-bottom: 1px solid #df710b;
+      
   }
