@@ -40,3 +40,11 @@
     -   #### Imagery
 
         -   I have a hero image when first opening the page, that is slightly blurred out to create a focus on the text that is inside of it. This catches the users attention immediately, and with the use of a box shadow, this further emphasises the focus on the text- which tells the user the exact purpose of the website so that they can make a decision if it interests them. Without this imagery, the first segment that you see of the website would be less likely to draw the users attention, as the image shows an empty gym with nice bright lighting, to emphasise a good mood (brightness through windows in gym) and fitness.
+
+        *   ### Wireframes
+
+    -   Home Page Wireframe - [View](https://github.com/)
+
+    -   Mobile Wireframe - [View](https://github.com/)
+
+    -   Contact Us Page Wireframe - [View](https://github.com/)
