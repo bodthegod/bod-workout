@@ -105,6 +105,8 @@ h2 {
     -webkit-border-radius: 0px 40px 0px 40px;
     -moz-border-radius: 0px 40px 0px 40px;
     border-radius: 0px 40px 0px 40px;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
     
     
 }
@@ -145,3 +147,25 @@ div h2, h4 {
     border-bottom: 1px solid #df710b;
       
   }
+  @media screen and (max-width: 1100px) {
+      #hero-text {
+          height: auto;
+          width: fit-content;
+      }
+  }
+
+  @media screen and (max-width: 600px) {
+    #advice-button-b, #advice-button-i { 
+        margin: 5%;
+    }
+    #hero-text {
+        height: auto;
+        width: 100%;
+
+    }
+}
+          
+
+     
+      
+  
