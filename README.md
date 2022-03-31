@@ -31,7 +31,7 @@
 
     -   #### Colour Scheme
 
-        -   The main colours I have used are a charcoal grey, grey and white- this is to provide a nice and easy to read website, with a little extra added depth to mix it up for the user reading it.
+        -   The main colours I have used are a charcoal grey, grey and white- this is to provide a nice and easy to read website, with a little extra added depth to mix it up for the user reading it. I have also used an orange colour as a secondary colour, occasionally spotted across buttons on the website, the logo on the top right, and the underlines. This colour is used to give the website a familiar feel to a user if they return at a later date- I also used this shade of orange as it is appropriate to my topic of the website, fitness- this is appropriate as orange is considered an active colour, vibrant and lively.
 
     -   #### Typography
 
@@ -39,7 +39,9 @@
 
     -   #### Imagery
 
-        -   I have a hero image when first opening the page, that is slightly blurred out to create a focus on the text that is inside of it. This catches the users attention immediately, and with the use of a box shadow, this further emphasises the focus on the text- which tells the user the exact purpose of the website so that they can make a decision if it interests them. Without this imagery, the first segment that you see of the website would be less likely to draw the users attention, as the image shows an empty gym with nice bright lighting, to emphasise a good mood (brightness through windows in gym) and fitness.
+        -   I have a hero image when first opening the page, that is slightly blurred out to create a focus on the text that is inside of it. This catches the users attention immediately, and with the use of a box shadow, this further emphasises the focus on the text- which tells the user the exact purpose of the website so that they can make a decision if it interests them. Without this imagery, the first segment that you see of the website would be less likely to draw the users attention, as the image shows an empty gym with nice bright lighting, to emphasise a good mood (brightness through windows in the gym) and fitness. I also have a parralax image in the background when you scroll down to the "My Love for Fitness" section, this image has some bright and easy to look at gym equipment, which is blurred out but gives the website a refreshing look. I used this imagery to keep the website looking fun and interactive to the user, giving them the insentive to read further into the information displayed.
+
+        I have three more images displayed within cards of the supplement section of my website, these images are used to give the user a clear understanding of what supplements I recommend, with a corresponding link to a website with said supplement. This is a good use of imagery as the user will be familiar with the supplement without seeing the website that they are sold on first, establishing a positive response from a user. This positive response is helpful as they may return at a later date, to check what other supplements I recommend- as they can see them on the website from a click of a button.
 
         *   ### Wireframes
 
