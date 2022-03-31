@@ -99,6 +99,7 @@ h2 {
     font-family: 'Comfortaa', cursive;
     letter-spacing: 2px; 
     padding: 20px;
+    min-width: 80%;
 
     background: rgb(247, 246, 246);
 
@@ -134,7 +135,7 @@ div h2, h4 {
     
     background-image: url("../images/dumbbell-parallax-img.jpg");
   
-    min-height: 350px; 
+    min-height: 500px; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -160,6 +161,10 @@ div h2, h4 {
   }
 
   @media screen and (max-width: 600px) {
+      
+.parallax {
+    min-height: 1000px;
+}
     #advice-button-b, #advice-button-i { 
         margin: 5%;
     }
