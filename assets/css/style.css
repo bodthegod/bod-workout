@@ -153,6 +153,21 @@ div h2, h4 {
 				  -1px -1px 0 #df710b;
       
   }
+  footer {
+      height: 150px;
+  }
+
+  .social-links > li {
+      display:inline;
+  }
+  .social-links  i {
+      font-size: 200%;
+      margin: 1%;
+      padding: 5%;
+      color: #df710b;
+    
+
+  }
   @media screen and (max-width: 1100px) {
       #hero-text {
           height: auto;
