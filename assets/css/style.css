@@ -205,6 +205,8 @@ div h2, h4 {
         -webkit-border-radius: 0px 40px 0px 40px;
         -moz-border-radius: 0px 40px 0px 40px;
         border-radius: 0px 40px 0px 40px;
+        -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+        box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
     }
     
     .signup-form h2 {
@@ -235,11 +237,17 @@ div h2, h4 {
         background-color: #df710b;
         color:#fafafa;
         display: block;
+
+        -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+        box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+        border: 2px solid #404040;
+        border-radius: 40px;
     }
 
     .request-button:hover{
         background-color:#fafafa;
         color:#bd6615;
+        border: 2px solid #df710b;
     }
 
     /* media queries */
