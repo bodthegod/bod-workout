@@ -185,6 +185,63 @@ div h2, h4 {
         font-size: 130%;
     }
 
+    /* contact page */
+
+    .form-section {
+        clear: left;
+        background-size: cover;
+        background-position: center;
+        height: 900px;
+    }
+    
+    .signup-form {
+        margin: 150px 10% 0 0;
+        color: #fff;
+        background-color: rgba(60, 60, 60, 0.6);
+        max-width: 400px;
+        position: absolute;
+        left: 10%;
+        padding: 30px;
+        -webkit-border-radius: 0px 40px 0px 40px;
+        -moz-border-radius: 0px 40px 0px 40px;
+        border-radius: 0px 40px 0px 40px;
+    }
+    
+    .signup-form h2 {
+        color: #fafafa;
+        margin-bottom: 20px;
+    }
+    
+    .text-input {
+        background: transparent;
+        color: #fafafa;
+        width:100%;
+        height:25px;
+        margin: 5px 0 20px 0;
+        border: 1px solid #fafafa;
+        border-radius: 2px;
+    }
+
+    .text-input:hover{
+        border-color: #df710b;
+    }
+
+    .request-button{
+        margin-top: 20px;
+        border-radius: 2px;
+        padding: 15px 32px 15px 32px;
+        text-align: center;
+        font-size: 100%;
+        background-color: #df710b;
+        color:#fafafa;
+        display: block;
+    }
+
+    .request-button:hover{
+        background-color:#fafafa;
+        color:#bd6615;
+    }
+    
     /* media queries */
   
   @media screen and (max-width: 1100px) {
