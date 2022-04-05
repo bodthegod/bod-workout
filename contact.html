@@ -56,18 +56,20 @@
         </div>
         </div>
     </section>
-    <!-- personal journey section -->
-    <section class="form-section p-5">
-      <form action="https://formdump.codeinstitute.net/" method="POST">
-        <h2>Enter Your Details Below To Contact Me For Advice or Training Plans:</h2>
+    <!-- form section -->
+    <section class="form-section">
+      <div id="form-container">
+      <div id="form-text">
+      <form action="https://formdump.codeinstitute.net/" class="signup-form" method="POST">
+        <h2 class="text-center">Enter Your Details Below To Contact Me For Advice or Training Plans:</h2>
         <label for="fname">First Name</label>
-        <input name="first_name" id="fname" type="text" required>
+        <input name="first_name" id="fname" type="text" class="text-input" required>
 
         <label for="lname">Last Name</label>
-        <input name="last_name" id= "lname" type="text" required>
+        <input name="last_name" id= "lname" type="text" class="text-input" required>
         
         <label for="email">Email Address</label>
-        <input name="email_address" id= "email" type="email" required>
+        <input name="email_address" id= "email" type="email" class="text-input" required>
 
         <label for="beginner">Beginner</label>
             <input name="training_status" id= "beginner" type="radio" value="beginner" required>
@@ -78,9 +80,10 @@
         <label for="experienced">Experienced</label>
         <input name="training_status" id= "experienced" type="radio" value="experienced" required>
         
-        <input type="submit" value="Request Info">
+        <input class="request-button" type="submit" value="Request Info">
       </form>
-      
+    </div>
+  </div>
     </section>
     <!-- advice section -->
     <section id="advice" class="p-5 text-center">
