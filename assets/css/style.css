@@ -141,15 +141,16 @@ h4 {
 /* parallax image styles */
 
 .parallax {
-
     background-image: url("../images/dumbbell-parallax-img.jpg");
-
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    filter: blur(5px)
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #about {
@@ -285,11 +286,6 @@ footer {
 }
 
 @media screen and (max-width: 600px) {
-
-    .parallax {
-        min-height: 1000px;
-    }
-
     #advice-button-b,
     #advice-button-i {
         margin: 5%;
