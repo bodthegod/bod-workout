@@ -167,6 +167,16 @@ div h2, h4 {
   footer {
       height: 150px;
   }
+
+    /* youtube video styles */
+
+  .video-playback {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
     /* social links styles */
 
   .social-links > li {
