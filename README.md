@@ -21,7 +21,7 @@
         3. As a Returning Visitor, I want to find social links, new advice and workout routines when things get easier.
         4. I would return to this website to look for new types of supplements that I can use to enhance my training or diet.
 
-         -   #### Frequent User Goals
+     -   #### Frequent User Goals
 
         1. As a Frequent User, I want to look for new workouts plans and new updates on the best gym movements recommended.
         2. As a Frequent User, I want to check regularly for supplements as they may change monthly.
@@ -43,10 +43,75 @@
 
         I have three more images displayed within cards of the supplement section of my website, these images are used to give the user a clear understanding of what supplements I recommend, with a corresponding link to a website with said supplement. This is a good use of imagery as the user will be familiar with the supplement without seeing the website that they are sold on first, establishing a positive response from a user. This positive response is helpful as they may return at a later date, to check what other supplements I recommend- as they can see them on the website from a click of a button.
 
-        *   ### Wireframes
+    *   ### Wireframes
 
     -   Home Page Wireframe - [View](https://github.com/)
 
     -   Mobile Wireframe - [View](https://github.com/)
 
     -   Contact Us Page Wireframe - [View](https://github.com/)
+
+    ## Features
+
+-   Navigation bar at the top of screen, with title of website
+
+-   Mobile friendly navigation bar with burger drop-down menu
+
+-   Responsive on mobile and desktop devices
+
+-   Interactive buttons
+
+-   Beginners advice page
+
+-   Intermediate trainers advice page
+
+-   Parallax image
+
+-   Informational youtube video
+
+-   Content of personal experiences and advice for fitness and wellbeing
+
+-   Supplements section with clickable cards, descriptions and images of supplements
+
+-   Social links in footer
+
+-   Contact us section
+   
+## Technologies Used
+
+
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Comfortaa' font and 'Quicksand' into the style.css file which is used on all pages throughout the project 
+    (maintains a certain style).
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages within the website to add icons for aesthetic and UX purposes, giving clear indication of social media links, and 
+    giving visual indicators to the information on the advice pages.
+1. [jQuery:](https://jquery.com/)
+    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript, allowing for a smooth scroll down to the desired section that is clicked.
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub, this was used throughout the development of the website
+    and was essential.
+1. [GitHub:](https://github.com/)
+    - GitHub was used to store the projects code after being pushed from Git.
+1. [BeFunky:](https://www.befunky.com/features/blur-image/)
+    - Befunky was used to blur the parallax image as there were bugs when using the css blur function.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
