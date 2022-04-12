@@ -1,5 +1,9 @@
 <h1 align="center">Bod Workout Website</h1>
 
+
+This is my fitness and gym related website. This website is designed to assist new and intemediate gym-goers with my personal advice and information I recommend, designed to 
+be functional on many devices.
+
 <h2 align="center"><img src="#"></h2>
 
 ## User Experience (UX)
@@ -21,7 +25,7 @@
         3. As a Returning Visitor, I want to find social links, new advice and workout routines when things get easier.
         4. I would return to this website to look for new types of supplements that I can use to enhance my training or diet.
 
-     -   #### Frequent User Goals
+    -   #### Frequent User Goals
 
         1. As a Frequent User, I want to look for new workouts plans and new updates on the best gym movements recommended.
         2. As a Frequent User, I want to check regularly for supplements as they may change monthly.
