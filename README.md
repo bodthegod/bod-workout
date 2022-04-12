@@ -35,7 +35,7 @@ be functional on many devices.
 
     -   #### Colour Scheme
 
-        -   The main colours I have used are a charcoal grey, grey and white- this is to provide a nice and easy to read website, with a little extra added depth to mix it up for the user reading it. I have also used an orange colour as a secondary colour, occasionally spotted across buttons on the website, the logo on the top right, and the underlines. This colour is used to give the website a familiar feel to a user if they return at a later date- I also used this shade of orange as it is appropriate to my topic of the website, fitness- this is appropriate as orange is considered an active colour, vibrant and lively.
+        -   The main colours I have used are a charcoal grey, #df710b and white- this is to provide a nice and easy to read website, with a little extra added depth to mix it up for the user reading it. I have also used an orange colour (#df710b) as a secondary colour, occasionally spotted across buttons on the website, the logo on the top left, and the underlines. This colour is used to give the website a familiar feel to a user if they return at a later date- I also used this shade of orange as it is appropriate to my topic of the website, fitness- this is appropriate as orange is considered an active colour, vibrant and lively.
 
     -   #### Typography
 
@@ -48,12 +48,20 @@ be functional on many devices.
         I have three more images displayed within cards of the supplement section of my website, these images are used to give the user a clear understanding of what supplements I recommend, with a corresponding link to a website with said supplement. This is a good use of imagery as the user will be familiar with the supplement without seeing the website that they are sold on first, establishing a positive response from a user. This positive response is helpful as they may return at a later date, to check what other supplements I recommend- as they can see them on the website from a click of a button.
 
     *   ### Wireframes
+        
+    -   I have used [Balsamiq Wireframes](https://balsamiq.com/) as my desired wireframing tool for this website, as it is very easy to use. However, due to these being wireframes, the final image of the website may be depicted differently yet these are base guidelines of my website, and the image I would like to achieve. Here I have created Home, Advice and Contact page wireframes, all with desktop and mobile wireframes along with it.    
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   Home Page Desktop Wireframe - [View](/wireframes/Home-page-desktop.png)
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   Home Page Mobile Wireframe - [View](/wireframes/Home-page-mobile.png)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Advice Page Desktop Wireframe - [View](/wireframes/Advice-page-desktop.png)
+
+    -   Advice Page Mobile Wireframe - [View](/wireframes/Advice-page-mobile.png)
+
+    -   Contact Us Desktop Wireframe - [View](/wireframes/Contact-us-desktop.png)
+
+    -   Contact Us Mobile Wireframe - [View](/wireframes/Contact-us-mobile.png)
 
     ## Features
 
@@ -79,17 +87,34 @@ be functional on many devices.
 
 -   Social links in footer
 
--   Contact us section
+-   Contact us page
    
-## Technologies Used
-
-
-
 ### Languages Used
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+
+
+### Resources Used
+
+-   Throughout coding this whole website, I have used [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) to assist me in making a responsive and attractive website. This has been essential as there are already predefined classes within bootstrap, allowing for quick coding, making me more effective and time efficient when coding. There were many times when coding when I got stuck, however due to the search ability within bootstrap and researching the issues I had, it allowed me to create a fix and carry on developing.
+
+-   I have also used the W3 [HTML](https://validator.w3.org/#validate_by_input) and [CSS](https://jigsaw.w3.org/css-validator/#validate_by_input) validator, and occasionally the [W3Schools](https://www.w3schools.com/) resources when I had an issue.
+
+-   For imagery, I used a royalty free website called [Pexels](https://www.pexels.com/search/gym/) and [Pixabay](https://pixabay.com/images/search/gym/) for my gym photos, and google for the images of the supplements.
+
+-   For my box shadows and unique box border radius, I used [BoxShadowGenerator] https://html-css-js.com/css/generator/box-shadow/
+
+-   For compressing my images, I used [TinyPNG](https://tinypng.com/)
+
+-   For testing my website on different screen sizes, I used [Responsinator](http://www.responsinator.com/)
+
+-   For media query info, I used [W3Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+-   For styling inspiration, I used [ColorMind](http://colormind.io/bootstrap/)
+
 
 ### Frameworks, Libraries & Programs Used
 
@@ -111,11 +136,96 @@ be functional on many devices.
 1. [BeFunky:](https://www.befunky.com/features/blur-image/)
     - Befunky was used to blur the parallax image as there were bugs when using the css blur function.
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq was used to create the [wireframes](/wireframes/) during the design process.
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. In addition to this, I used Chrome Dev tools very often to play around with the code and test when I was having issues. I found this was extremely important when troubleshooting issues- as I could change the code and see the changes live, instead of having to save the file and force refresh (If I changed the CSS code).
+
+The use of chrome dev tools allowed me to play around with the breakpoints for different screen sizes, and helped me achieve the look I desire for on smaller screen sizes.
+
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
+### Testing User Stories from User Experience (UX) Section
+
+-   #### First Time Visitor Goals
+
+    1. As a First Time Visitor, I want to have access to a website that allows me to explore reliable and trustworthy information about fitness and wellbeing, allowing me to adapt my lifestyle for a positive change, for medical or personal reasons. 
+
+        1. When entering the site, users are displayed an attractive and easy to read website, which has a simple navigation bar with visual cues (orange underline), a blurred hero image with a box and text over it, and also a brief description of the website's use.
+        2. The description of the website is immediately visible, allowing users to define the use of the website will have for them.
+        3. The user immediately has options, these being the navigation bar which will take them to different sections on the first page of the webite, or scroll down individually for a more defined use of the website.
+
+    2. As a First Time Visitor, I want to be able to have easy access to every page possible, as it is a website to provide valuable information for people interested in the subject of fitness, the easier the pages are to access, the more likely a user is to explore the website and return to it.
+
+        1. This site is designed for ease of access and to minimalise scrolling in order for there to be a defined path the user chooses when viewing the pages, this is to encourage a return visit.
+        2. As the users within the site will have a defined goal, my website relies on the defined goal of a user to navigate to the specfic section they desire, e.g (user goes to website for supplement recommendations, clicks supplements button, advice -> advice secion)
+        3. The website never takes away from the user experience as external links always open a new tab, keeping the user's interest and original position on the site.
+
+    3. As a First Time Visitor, I want to see how relatable the content is to a newgoer or intermediate trainer within the gym, as this is the target audience. This website is intended to encourage those users to rely on it for valuable information that can be used to better themselves.
+        1. The user will instantly see relatable content from personal experience, providing useful information to the target audience.
+        2. The user can navigate to two seperate advice pages, catering for 1. beginning trainers and 2. intermediate trainers. 
+        3. The contact us page can also be used in order for the user to submit information regarding a personal training plan or more catered personal advice.
+
+    4. When visiting the website for the first time, I want to be aware of what the website is intended to do, and as a user how it could change my lifestyle for the better.
+        1. The intent of the website is clear through the information presented, and the clear guidelines throughout the website for those using it.
+        2. The user can also watch a brief video which is extremely helpful regarding the topic of the website, and this keeps it engaging.
+
+     5. Any first time user interested in getting in contact with me regarding a workout plan or personal advice catered to their needs, shall see a contact button presented within the navigation bar so they could go straight to the section of the website they desire. 
+        1. A first time user can instantly navigate to the contact us section, never taken away from the user as it is displayed on all screen sizes.
+        2. The contact us section is simple and follows the style of the website, so that information can be entered to describe the users needs.
+
+-   #### Returning Visitor Goals
+
+    1. As a Returning Visitor, I want to look for new ways I can plan my workouts, and possibly adapt my gym ethic.
+
+        1. These new methods of working out can be found via the different advice pages.
+        2. A returning visitor would go straight to the advice section, where they will be directed to a new section of the website.
+
+    2. As a Returning Visitor, I want to be able to contact in order to request new workout plans, or personal advice that specifically caters to those who have different training styles.
+
+        1. There is a "Contact" section within the nav bar that can be used for this user goal.
+        2. Within this contact page, it allows a returning user to provide information about their experience.
+        3. At the bottom of the contact page, there is a footer with social links, which will allow the user to get in contact if they need another method of contact.
+        4. If the user decides on using one of these three links, a new tab will be opened which maintains their position on the "Bod Workout" website, whilst maintaining interactivity with the form of social media.
+        5. All social links function correctly, and take the user to my social media accounts.
+
+    3. As a Returning Visitor, I want to find social links, new advice and workout routines when things get easier.
+        1. When returning to the page, social links can be found within the footer of every page.
+        2. These social links that are displayed within every page, are all fully functional and open the link within a new tab.
+        3. If the user is looking for new advice, this can be found when progressing to the intermediate page, and reading the my personal experience section.
+
+-   #### Frequent User Goals
+
+    1. As a Frequent User, I want to look for new workouts plans and new updates on the best gym movements recommended.
+        1. The user would already know how to navigate the website, and would go straight to the advice page to look for said information.
+
+    2. As a Frequent User, I want to check regularly for supplements as they may change monthly.
+        1. As the user has visited the website and navigation is streamlined, they would click on the supplements link within the nagivation bar to see the cards which display these supplements.
+
+    3. As a Frequent User, I want to have access to social links and contact details so that when my strength or routine changes, I can plan accordingly.
+        1. At the bottom of every page, the user can see three social links, which follow with the websites style within the footer.
+        2. The contact section can be used in order to submit for workout information, and the social links can also be used to get into contact and request information.
+
+### Further Testing
+
+-   I tested my website on many different screen sizes using the inspect element web tool, which allowed for me to test specific breakpoints and the layout on different hardware.
+-   I tested my website on Google chrome and Safari, as these browsers interacted differently and I had to plan accordingly by editing features for IOS (my parallax).
+-   I had tested every single page and link to ensure they were all functioning correctly, and redirects the user to the correct area within the website.
+-   I asked friends to give me a review of the website and possible tips they think I could improve on, and had them bug test it as well as myself.
+
+### Known Bugs
+
+-   On IOS the parallax image doesn't display correctly so I had to edit this to dispay as static, so I blurred the image and made the text visible over the static image.
+-   There was a bug where my video wouldn't play, however I edited the size and positioning to fix this.
+-   The images within the cards didn't show on the live site, and all that would show was the alt tags. In order to fix this, I changed the path of the images within the hyperlink.
+-   The top hero image would stretch and display too big, and would stretch on mobile devices. To fix this, I changed the max-width.
+-   The nav bar wouldn't function correctly on mobile, so I added the burger icon via bootstrap for ease of use.
+    
+## Credits
+
+-   For my gym images, 
+       
+     
