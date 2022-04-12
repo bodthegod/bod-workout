@@ -226,6 +226,6 @@ The use of chrome dev tools allowed me to play around with the breakpoints for d
     
 ## Credits
 
--   For my gym images, 
+-   For my gym hero image, credits to [Thomas Baumann](https://pixabay.com/users/thomasbaumann840-1469009/)
        
      
