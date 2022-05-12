@@ -1,10 +1,9 @@
 <h1 align="center">Bod Workout Website</h1>
 
 
-This is my fitness and gym related website. This website is designed to assist new and intemediate gym-goers with my personal advice and information I recommend, designed to 
-be functional on many devices.
+# This is my fitness and gym related website. This website is designed to assist new and intermediate gym-goers with my personal advice and information I recommend, designed to be functional on many devices. #
 
-<h2 align="center"><img src="#"></h2>
+![Website Designs](/readmeimages/deviceframes.png)</h2>
 
 ## User Experience (UX)
 
@@ -62,6 +61,12 @@ be functional on many devices.
     -   Contact Us Desktop Wireframe - [View](/wireframes/Contact-us-desktop.png)
 
     -   Contact Us Mobile Wireframe - [View](/wireframes/Contact-us-mobile.png)
+
+    *   ### Lighthouse Reports
+
+    -   Lighthouse Report for Desktop - [View](/readmeimages/lighthousereport-desktop.png)
+
+    -   Lighthouse Report for Mobile - [View](/readmeimages/lighthousereport-mobile.png)
 
     ## Features
 
