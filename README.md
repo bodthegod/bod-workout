@@ -3,7 +3,7 @@
 
 # This is my fitness and gym related website.
 ## This website is designed to assist new and intermediate gym-goers with my personal advice and information I recommend, designed to be functional on many devices. 
-# (https://github.com/bodthegod/bod-workout) #
+# [View the live project here](https://github.com/bodthegod/bod-workout) #
 
 
 ![Website Designs](/readmeimages/deviceframes.png)</h2>
@@ -120,7 +120,7 @@
 ####   Contact page
 -   [Contact Page](/readmeimages/Contact-page-one.png)
     The contact page within my website is very simple, and offers the user a few boxes to enter information, and radio buttons too. There is a submit button to submit the data, and the box that all the information is displayed in follows the website style. Social links are also here.
-    
+
 ### Languages Used
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -177,8 +177,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 The use of chrome dev tools allowed me to play around with the breakpoints for different screen sizes, and helped me achieve the look I desire for on smaller screen sizes.
 
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+-   [index.html Results](/readmeimages/index-validation.png)
+-   [advice-beginners.html Results](/readmeimages/beginner-validation.png)
+-   [advice-intermediate.html Results](/readmeimages/intermediate-validation.png)
+-   [contact.html Results](/readmeimages/contact-validation.png)
+
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+-   [style.css Results](/readmeimages/css-validation.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -255,7 +262,54 @@ The use of chrome dev tools allowed me to play around with the breakpoints for d
 -   The images within the cards didn't show on the live site, and all that would show was the alt tags. In order to fix this, I changed the path of the images within the hyperlink.
 -   The top hero image would stretch and display too big, and would stretch on mobile devices. To fix this, I changed the max-width.
 -   The nav bar wouldn't function correctly on mobile, so I added the burger icon via bootstrap for ease of use.
-    
+
+## Deployment
+
+### GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/bodthegod/bod-workout)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com/bodthegod/bod-workout/settings/pages) in the "GitHub Pages" section.
+
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/bodthegod/bod-workout)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/bodthegod/bod-workout)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
+```
+$ git clone https://github.com/bodthegod/bod-workout
+```
+
+7. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/bodthegod/bod-workout
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
 ## Credits
 
 -   For my gym hero image, credits to [Thomas Baumann](https://pixabay.com/users/thomasbaumann840-1469009/)
