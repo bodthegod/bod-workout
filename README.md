@@ -1,7 +1,9 @@
 <h1 align="center">Bod Workout Website</h1>
 
 
-# This is my fitness and gym related website. This website is designed to assist new and intermediate gym-goers with my personal advice and information I recommend, designed to be functional on many devices. #
+# This is my fitness and gym related website. This website is designed to assist new and intermediate gym-goers with my personal advice and information I recommend, designed to be functional on many devices. (https://github.com/bodthegod/bod-workout) #
+
+## [Link]
 
 ![Website Designs](/readmeimages/deviceframes.png)</h2>
 
