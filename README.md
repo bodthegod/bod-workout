@@ -1,9 +1,10 @@
 <h1 align="center">Bod Workout Website</h1>
 
 
-# This is my fitness and gym related website. This website is designed to assist new and intermediate gym-goers with my personal advice and information I recommend, designed to be functional on many devices. (https://github.com/bodthegod/bod-workout) #
+# This is my fitness and gym related website.
+## This website is designed to assist new and intermediate gym-goers with my personal advice and information I recommend, designed to be functional on many devices. 
+# (https://github.com/bodthegod/bod-workout) #
 
-## [Link]
 
 ![Website Designs](/readmeimages/deviceframes.png)</h2>
 
@@ -95,7 +96,31 @@
 -   Social links in footer
 
 -   Contact us page
-   
+
+### Screenshots and features within website
+
+####   Home page
+-   [Top of Home Page](/readmeimages/Home-page-one.jpg)
+    This screenshot shows the first view a user will see every time they load up the site, this displays some brief information to the user about the use of the website, shown on a box with a box shadow and blurred background to really focus the user and define the use that they will have from it.
+-   [Middle of Home Page](/readmeimages/Home-page-two.png)
+    This portion of the website gives the user information about my personal journey through fitness, to allow them to dictate the value of the website. There are also buttons shown to the user that can redirect them to a page for beginners or intermediate trainers, catering to multiple audiences.
+-   [Lower of Home Page](/readmeimages/Home-page-three.png)
+    Here on the lower part of the home page, the user is given a brief understanding about why I am passionate about fitness, shown on a parallax image to catch the eye of the user.- another effort to allow them to dictate the value of information being presented. There is also a basic fitness video about beginner gym mistakes, showing them that I understand where they may be and that the information on the website is an effort to be helpful.
+-   [Bottom of Home Page](/readmeimages/Home-page-four.png)
+    The final section of the home page on my website shows supplements that I regularly use- with brief descriptions and images of the product also with a 'Visit Supplement' button, which will open a new tab for the user to purchase or browse what I recommend. Finally- there are social links at the bottom of the page, for them to find more information and contact me if they desire.
+
+####   Beginner page
+-   [Beginner Page](/readmeimages/Beginner-page-one.png)
+    Within this page, basic information with icons is displayed to assist a beginner trainer within the gym some rough guidance and my personal opinion on things to focus on at that stage of training. There is also a button below to redirect the user to the intermediate page, and social links.
+
+####   Intermediate page
+-   [Intermediate Page](/readmeimages/Intermediate-page-one.png)
+    This page on my website is very similar to the beginner page, however the information is different and more focused towards the intermediate group, and the icons are different. Also, there is a button to take the user to the supplements section of the website, as I believe that is a need from a user that is at the intermediate stage of training. Social links are displayed too.
+
+####   Contact page
+-   [Contact Page](/readmeimages/Contact-page-one.png)
+    The contact page within my website is very simple, and offers the user a few boxes to enter information, and radio buttons too. There is a submit button to submit the data, and the box that all the information is displayed in follows the website style. Social links are also here.
+    
 ### Languages Used
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
