@@ -1,12 +1,41 @@
-<h1 align="center">Bod Workout Website</h1>
+<h1 align="center">Bod Workout Website - Project Portfolio 1</h1>
 
+## - By Joe Playdon
+ 
+### [View the live project here](https://bodthegod.github.io/bod-workout/) #
+### [View the repository here](https://github.com/bodthegod/bod-workout) #
 
-# This is my fitness and gym related website.
-## This website is designed to assist new and intermediate gym-goers with my personal advice and information I recommend, designed to be functional on many devices. 
-# [View the live project here](https://github.com/bodthegod/bod-workout) #
-
+# Table of Contents:
+1. [About the project](#about-my-website)
+    1. [First Time Visitor Goals](#first-time-visitor-goals)
+    2. [Returning and Frequent Visitor Goals](#returning-visitor-goals)
+2. [Design](#design)
+    1. [Colour Scheme](#colour-scheme)
+    2. [Typography](#typography)
+    3. [Imagery](#imagery)
+	4. [Wireframes](#wireframes)
+	5. [Features](#features)
+    6. [Screenshots of Features](#screenshots-and-features-within-website)
+3. [Languages and Resources](#languages-used)
+4. [Testing](#testing)
+    1. [HTML Validator Results](#html-results)
+    2. [CSS Validator Results](#css-results)
+    3. [Lighthouse Reports](#lighthouse-reports)
+    4. [Further Testing](#further-testing)
+5. [Bugs and fixes](#known-bugs)
+6. [Deployment](#deployment)
+    1. [GitHub Pages](#github-pages)
+    2. [Forking Repository](#forking-the-github-repository)
+    3. [Making A Local Clone](#making-a-local-clone)
+7. [Credits](#credits)
+    
 
 ![Website Designs](/readmeimages/deviceframes.png)</h2>
+
+### About my website
+
+This is my fitness and gym related website. My website is designed to assist new and intermediate gym-goers with my personal advice and information I recommend, designed to be functional on many devices.
+
 
 ## User Experience (UX)
 
@@ -64,12 +93,6 @@
     -   Contact Us Desktop Wireframe - [View](/wireframes/Contact-us-desktop.png)
 
     -   Contact Us Mobile Wireframe - [View](/wireframes/Contact-us-mobile.png)
-
-    *   ### Lighthouse Reports
-
-    -   Lighthouse Report for Desktop - [View](/readmeimages/lighthousereport-desktop.png)
-
-    -   Lighthouse Report for Mobile - [View](/readmeimages/lighthousereport-mobile.png)
 
     ## Features
 
@@ -137,7 +160,7 @@
 
 -   For imagery, I used a royalty free website called [Pexels](https://www.pexels.com/search/gym/) and [Pixabay](https://pixabay.com/images/search/gym/) for my gym photos, and google for the images of the supplements.
 
--   For my box shadows and unique box border radius, I used [BoxShadowGenerator] https://html-css-js.com/css/generator/box-shadow/
+-   For my box shadows and unique box border radius, I used [BoxShadowGenerator](https://html-css-js.com/css/generator/box-shadow/)
 
 -   For compressing my images, I used [TinyPNG](https://tinypng.com/)
 
@@ -146,6 +169,14 @@
 -   For media query info, I used [W3Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
 -   For styling inspiration, I used [ColorMind](http://colormind.io/bootstrap/)
+
+-   For font styles, I used [Google Fonts](https://fonts.google.com/)
+
+-   Colours were all checked with [Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp)
+
+-   Icons within both intermediate and beginner pages, and footer were from [Font Awesome](https://fontawesome.com/)
+
+-   Images used came from [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/) which both allow for copyright free and royalty free images that are free to use.
 
 
 ### Frameworks, Libraries & Programs Used
@@ -177,15 +208,24 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 The use of chrome dev tools allowed me to play around with the breakpoints for different screen sizes, and helped me achieve the look I desire for on smaller screen sizes.
 
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
+## HTML Results
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 -   [index.html Results](/readmeimages/index-validation.png)
 -   [advice-beginners.html Results](/readmeimages/beginner-validation.png)
 -   [advice-intermediate.html Results](/readmeimages/intermediate-validation.png)
 -   [contact.html Results](/readmeimages/contact-validation.png)
 
+## CSS Results
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
 -   [style.css Results](/readmeimages/css-validation.png)
+
+## Lighthouse Reports
+
+-   Lighthouse Report for Desktop - [View](/readmeimages/lighthousereport-desktop.png)
+
+-   Lighthouse Report for Mobile - [View](/readmeimages/lighthousereport-mobile.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -262,6 +302,7 @@ The use of chrome dev tools allowed me to play around with the breakpoints for d
 -   The images within the cards didn't show on the live site, and all that would show was the alt tags. In order to fix this, I changed the path of the images within the hyperlink.
 -   The top hero image would stretch and display too big, and would stretch on mobile devices. To fix this, I changed the max-width.
 -   The nav bar wouldn't function correctly on mobile, so I added the burger icon via bootstrap for ease of use.
+-   There were many issues showing within the HTML validator, so I thoroughly fixed each and every bug, some of these being duplicate tags.
 
 ## Deployment
 
@@ -313,5 +354,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ## Credits
 
 -   For my gym hero image, credits to [Thomas Baumann](https://pixabay.com/users/thomasbaumann840-1469009/)
+-   For my parallax image, credits to [Karolina Grabowska](https://www.pexels.com/photo/wake-up-and-workout-slogan-on-light-box-among-sports-equipment-4397840/)
+- For my gym video, credits to [PictureFit](https://www.youtube.com/watch?v=2qWoegDcHMI)
+-   Credits to my mentor Darío for encouraging me to continue to add things to improve my project.
+-   Credits to [Boostrap](https://getbootstrap.com/docs/5.2/components/navbar/) for the navigation bar.
        
      
