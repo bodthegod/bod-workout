@@ -121,7 +121,7 @@ This is my fitness and gym related website. My website is designed to assist new
 -   Contact us page
 
 ### Screenshots and features within website
-
+#### **(I have provided screenshots via links to make the screenshots section more readable)**
 ####   Home page
 -   [Top of Home Page](/readmeimages/Home-page-one.jpg)
     This screenshot shows the first view a user will see every time they load up the site, this displays some brief information to the user about the use of the website, shown on a box with a box shadow and blurred background to really focus the user and define the use that they will have from it.
