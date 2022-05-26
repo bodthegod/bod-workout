@@ -355,8 +355,16 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   For my gym hero image, credits to [Thomas Baumann](https://pixabay.com/users/thomasbaumann840-1469009/)
 -   For my parallax image, credits to [Karolina Grabowska](https://www.pexels.com/photo/wake-up-and-workout-slogan-on-light-box-among-sports-equipment-4397840/)
-- For my gym video, credits to [PictureFit](https://www.youtube.com/watch?v=2qWoegDcHMI)
+-   For my gym video, credits to [PictureFit](https://www.youtube.com/watch?v=2qWoegDcHMI)
 -   Credits to my mentor Darío for encouraging me to continue to add things to improve my project.
--   Credits to [Boostrap](https://getbootstrap.com/docs/5.2/components/navbar/) for the navigation bar.
+-   Credits to [Bootstrap](https://getbootstrap.com/docs/5.2/components/navbar/) for the navigation bar.
+-   Credits to [Bootstrap](https://getbootstrap.com/docs/5.2/utilities/position/#content) for the positioning.
+-   Credits to [Bootstrap](https://getbootstrap.com/docs/5.2/utilities/text/#text-alignment) for text alignment.
+-   Credits to [Bootstrap](https://getbootstrap.com/docs/5.2/components/buttons/#button-tags) for the button tags.
+-   Credits to [Bootstrap](https://getbootstrap.com/docs/5.2/utilities/text/#font-weight-and-italics) for the font-weight tags.
+-   Credits to [Bootstrap](https://getbootstrap.com/docs/5.2/layout/columns/#content) for the column tags.
+-   Credits to [Bootstrap](https://getbootstrap.com/docs/5.2/components/card/#content) for the card tags.
+-   Credits to [Bootstrap](https://getbootstrap.com/docs/5.2/layout/containers/#content) for the container tags.
+
        
      
